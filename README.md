@@ -1,1 +1,1 @@
-# /index.htlm
+# permalink: /index.html

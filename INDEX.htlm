@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link href="file://///home/enriquealderete/Escritorio/Master/Tema1TecnologiasInternet/Modulo2Laweb/PruebaWeb/kike.css"
+      rel="stylesheet" type="text/css">
+        <title>Página ejemplo pactica</title>
+       
+    </head>
+    
+    <body>
+        <header>
+            <h1>Enrique Alderete Heras</h1>
+            <h4>Mi Aficion: El Buceo</h4>
+            <h3>LOS MEJORES LUGARES DONDE HE BUCEADO</h3>
+        
+        </header>
+                    
+        <section>
+            <article>
+                <h2>INDONESIA</h2>
+
+                <div align="center">
+                <img src="/home/enriquealderete/Escritorio/Master/Tema1TecnologiasInternet/Modulo2Laweb/PruebaWeb/indonesia_map.jpg" />
+                <p>Indonesia es un país enorme que cuenta con más de 250 millones de habitantes en 17.500 islas. Sin duda, Indonesia es uno de los mejores lugares en el mundo para un viaje de buceo. Si es buzo, debe por una vez en su vida visitar este país, para descubrir su belleza en tierra y bajo el mar. Este archipiélago es el más grande del mundo, y alberga el 10% del arrecife de coral en el planeta, haciendo de Indonesia el mayor campo de juegos para los amantes del buceo. El fondo marino indonesio es uno de los más ricos del mundo, y ofrece una biodiversidad impresionante con cientos de especies distintas identificadas, con muchas de ellas endémicas. </p>                
+            <img src="/home/enriquealderete/Escritorio/Master/Tema1TecnologiasInternet/Modulo2Laweb/PruebaWeb/Kanawa-Island-Resort-3.jpg" width="700" height="500"/>
+            </div>
+            </article>
+            <article>
+                <h2>MALDIVAS</h2>
+                <p>El buceo en Maldivas tiene fama mundial. Cada año, miles de buceadores vienen hasta aquí para descubrir las maravillas que esconden sus más de 200 puntos de buceo, repartidos en los 26 atolones que conforman este país de más de 1000 islas, ubicado en el Océano Índico.
+
+Maldivas está alejado del continente, lo que hace que sus fondos coralinos y sus aguas cristalinas estén alejadas de la contaminación de otros lugares del mundo, siendo un verdadero espectáculo submarino.</p>
+
+				<div align="center">    
+				<img src="/home/enriquealderete/Escritorio/Master/Tema1TecnologiasInternet/Modulo2Laweb/PruebaWeb/buceo-eagle-ray-maldivas.jpg" width="700" height="500"/>          
+				</div>   
+				
+				 <h5>EGIPTO</h5> 
+				 <p>Pocos lugares hay en el mundo tan relacionados directamente con el buceo como el Mar Rojo. Este golfo del océano Índico cuenta con una longitud de 2.200 km y alcanza profundidades de más de 2.000 metros lo que le da a sus aguas gran riqueza y nutrientes que alimentan a sus corales. Considerada como una de las 7 maravillas del mundo submarino y con un papel crucial en el desarrollo del comercio marítimo desde hace siglos, se puede visitar a través de barcos de buceo vida a bordo que te pueden llevar a lo mejor de la Ruta Norte como Sharm el Sheikh y los naufragios de Hurghada o por el sur, apasionante y menos concurrida, con extraordinarios jardines de coral y tiburones en Marsa Alam, o más al sur, en Sudán, acercarnos al escalofriante pecio Umbria o a la singular ciudad sumergida de Jacques Cousteau, que fue de los primeros en reconocer el valor de la vida submarina del Mar Rojo, al que dedicó gran parte de su carrera. </p>      
+				<div align="center">  
+				  <img src="/home/enriquealderete/Escritorio/Master/Tema1TecnologiasInternet/Modulo2Laweb/PruebaWeb/43434754_1408036149299951_7967205046074998784_n.jpg" width="700" height="500"> 
+				  </div>         
+            </article>
+          
+        </section>
+
+
+        
+
+
+    </body>
+</html>
